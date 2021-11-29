@@ -8,6 +8,7 @@ namespace MyProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("hi guys");
+            Console.WriteLine("bye ladies");
         }
     }
 }
